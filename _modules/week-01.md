@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: Blockchain Fundamentals Recap
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 17
+: **Section**{: .label .label-yellow }[What is Blockchain](#)
+  : [Slides](#)
+    : [Recording](#)
+: **Homework**{: .label .label-green } [Fundamentals Quiz](#)
+  : [Submit](#)
+    : [Solutions](#)
+: **Lab**{: .label .label-blue } [Build Your Own Blockchain](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Su, Jan 22
+: **HOMEWORK DUE**{: .label .label-red }
