@@ -1,15 +1,16 @@
 ---
-title: Solidity and Developer Tools
+week: 2
+title: Solidity and Smart Contract Development Tooling
 ---
 
-Feb 9
+Feb 16
 : **Section**{: .label .label-yellow }[Solidity ](#)
   : [Slides](#)
     : [Recording](#)
-: **Homework**{: .label .label-green } [Fundamentals Quiz](#)
+: **Vitamin**{: .label .label-green } [Fundamentals Quiz](#)
   : [Submit](#)
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [Build Your Own Blockchain](#)
 
-Su, Feb 12
+Su, Feb 19
 : **LAB DUE**{: .label .label-red }

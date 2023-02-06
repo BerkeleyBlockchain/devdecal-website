@@ -1,5 +1,6 @@
 ---
-title: Week 1 - A High Level Introduction to Blockchain
+week: 1
+title: Introduction to Blockchain Development - A High-Level Overview
 ---
 
 Feb 9
@@ -12,4 +13,4 @@ Feb 9
 : **Lab**{: .label .label-blue } [Build Your Own Blockchain](#https://github.com/BerkeleyBlockchain/dev-decal-sp23/tree/master/hw1-Build%20a%20Blockchain%20in%20Python)
 
 Su, Jan 12
-: **HOMEWORK DUE**{: .label .label-red }
+: **LAB DUE**{: .label .label-red }

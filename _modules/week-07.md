@@ -1,15 +1,16 @@
 ---
-title: Intro to Zero-Knowledge
+week: 7
+title: Recap & Intro to Zero-Knowledge
 ---
 
-Jan 17
-: **Section**{: .label .label-yellow }[What is Blockchain](#)
+Mar 9
+: **Section**{: .label .label-yellow }[](#)
   : [Slides](#)
     : [Recording](#)
-: **Homework**{: .label .label-green } [Fundamentals Quiz](#)
+: **Vitamin**{: .label .label-green } [](#)
   : [Submit](#)
     : [Solutions](#)
-: **Lab**{: .label .label-blue } [Build Your Own Blockchain](#)
+: **Lab**{: .label .label-blue } [](#)
 
-Su, Jan 22
-: **HOMEWORK DUE**{: .label .label-red }
+Su, Mar 12
+: **LAB DUE**{: .label .label-red }

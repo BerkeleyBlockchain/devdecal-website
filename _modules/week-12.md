@@ -1,6 +1,6 @@
 ---
-week: 6
-title: dApp Architecture - Writing Large & Composable Smart Contracts
+week: 12
+title: ZK Development 4
 ---
 
 Mar 9

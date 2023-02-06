@@ -1,15 +1,16 @@
 ---
-title: Advanced Solidity
+week: 3
+title: Solidity Syntax In Depth
 ---
 
-Jan 17
+Feb 23
 : **Section**{: .label .label-yellow }[](#)
   : [Slides](#)
     : [Recording](#)
-: **Homework**{: .label .label-green } [](#)
+: **Vitamin**{: .label .label-green } [](#)
   : [Submit](#)
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [](#)
 
-Su, Jan 22
-: **HOMEWORK DUE**{: .label .label-red }
+Su, Feb 26
+: **LAB DUE**{: .label .label-red }

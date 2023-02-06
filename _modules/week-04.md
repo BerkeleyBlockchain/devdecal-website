@@ -1,15 +1,16 @@
 ---
+week: 4
 title: Ethers.js, Wagmi, and Connecting to the Web
 ---
 
-Jan 17
+Mar 2
 : **Section**{: .label .label-yellow }[](#)
   : [Slides](#)
     : [Recording](#)
-: **Homework**{: .label .label-green } [](#)
+: **Vitamin**{: .label .label-green } [](#)
   : [Submit](#)
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [](#)
 
-Su, Jan 22
-: **HOMEWORK DUE**{: .label .label-red }
+Su, March 5
+: **LAB DUE**{: .label .label-red }
