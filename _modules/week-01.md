@@ -1,15 +1,15 @@
 ---
-title: Blockchain Fundamentals Recap
+title: Week 1 - A High Level Introduction to Blockchain
 ---
 
-Jan 17
-: **Section**{: .label .label-yellow }[What is Blockchain](#)
-  : [Slides](#)
+Feb 9
+: **Section**{: .label .label-yellow }[What is Blockchain?](#)
+  : [Slides](#https://docs.google.com/presentation/d/1YwWCaatLVcMg-qEgWuvKmEHuDPI24kE_l5DFTkHXHYw/edit?usp=sharing)
     : [Recording](#)
-: **Homework**{: .label .label-green } [Fundamentals Quiz](#)
+: **VITAMIN**{: .label .label-green } [Fundamentals Quiz](#)
   : [Submit](#)
     : [Solutions](#)
-: **Lab**{: .label .label-blue } [Build Your Own Blockchain](#)
+: **Lab**{: .label .label-blue } [Build Your Own Blockchain](#https://github.com/BerkeleyBlockchain/dev-decal-sp23/tree/master/hw1-Build%20a%20Blockchain%20in%20Python)
 
-Su, Jan 22
+Su, Jan 12
 : **HOMEWORK DUE**{: .label .label-red }

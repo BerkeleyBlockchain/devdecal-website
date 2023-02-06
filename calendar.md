@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar
+nav_exclude: true
 description: The weekly event schedule.
 ---
 

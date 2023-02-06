@@ -1,9 +1,9 @@
 ---
-title: Solidity and Developer Tools
+title: ZK Development 1
 ---
 
-Feb 9
-: **Section**{: .label .label-yellow }[Solidity ](#)
+Jan 17
+: **Section**{: .label .label-yellow }[What is Blockchain](#)
   : [Slides](#)
     : [Recording](#)
 : **Homework**{: .label .label-green } [Fundamentals Quiz](#)
@@ -11,5 +11,5 @@ Feb 9
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [Build Your Own Blockchain](#)
 
-Su, Feb 12
-: **LAB DUE**{: .label .label-red }
+Su, Jan 22
+: **HOMEWORK DUE**{: .label .label-red }
