@@ -11,9 +11,8 @@ seo:
 
 # Blockchain for Developers
 
-<!-- {% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %} -->
+Welcome to Blockchain for Developers! 
+
+Our first lecture will be this Thursday, Feburary 9th at 6:00pm. A zoom link will be posted.
 
 {{ site.announcements[-1] }}
