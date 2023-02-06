@@ -17,7 +17,7 @@ title: Developer's Decal
 tagline: Course website for B@B's Dev Decal
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Daniel Gushchyan
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://berkeleyblockchain.github.io/devdecal-website' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -74,3 +74,5 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+exclude: [vendor]
