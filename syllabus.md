@@ -19,25 +19,24 @@ description: >-
 
 ## About
 
-Welcome to Blockchain@Berkeley’s Blockchain for Developers DeCal! This course is designed to provide students a comprehensive overview of relevant topics in blockchain development, as well as hands-on experience in developing and deploying their own smart contracts & sovereign Cosmos blockchains.  
+Welcome to Blockchain@Berkeley’s Blockchain for Developers DeCal for the Spring 2023 semester! This MOOC-style online course is designed to provide students a comprehensive overview of relevant topics in blockchain development, as well as hands-on experience in developing and deploying their own smart contracts & sovereign Cosmos blockchains.  
 
-Blockchain is currently one of the fastest-growing industries in the technology sector. In response to this shortage of blockchain developers, this course aims to teach students the technical fundamentals of blockchains, Solidity programming language, Cosmos ecosystem, as well as industry-relevant tools such as Metamask, Wagmi, Foundry, and Cosmos SDK such that students will be equipped with industry-relevant experience in an accessible, collaborative environment. We hope that through this course, students will become more confident in their ability to develop and deploy blockchain-based solutions on important industry issues.
-Class Format
+Blockchain is currently one of the fastest-growing industries in the technology sector. In response to this shortage of blockchain developers, this course aims to teach students the technical fundamentals of blockchains, Solidity programming language, Cosmos ecosystem, as well as industry-relevant tools such as Metamask, Wagmi, Foundry, and Cosmos SDK such that students will be equipped with industry-relevant experience in an accessible, collaborative environment. We hope that through this course, students will become more confident in their ability to develop and deploy blockchain-based solutions on important industry issues
 
 ## Class Format
 
-The course is split into two parts. The first half of the course will provide a quick overview of the blockchain and a deep dive into Ethereum and its smart contracts. In this process, you will learn how to write your own smart contract and dApp frontends using industry-standard developer toolings like Foundry and Wagmi. In the second half of the course, we will shift our focus toward the Cosmos ecosystem, where we will learn how to use the Cosmos SDK to develop application-specific sovereign blockchains on top of the Tendermint consensus. 
+The course will be split into two parts. The first half of the course will provide a quick overview of the blockchain and a deep dive into Ethereum and its smart contracts. In this process, you will learn how to write your own smart contract and dApp frontends using industry-standard developer toolings like Foundry and Wagmi. In the second half of the course, we will be spending a significant portion of the class exploring Zero Knowledge Development and programming ZK circuits using Circom
 
-Each lecture will be divided into two parts as well. The first hour of each class will be dedicated to a lecture covering the topics planned for that week. We will then switch gears in the second hour of class to focus on more hands-on work with that week’s topics. 
 
-Check [schedule]() section to see course structure and lectures.
+Each class will be divided into two parts as well. The first hour of each class will be dedicated to a lecture covering the topics planned for that week. We will then switch gears in the second hour of class to focus on more hands-on work with that week’s topics. 
+
+Check [schedule](#schedule) section to see course structure and lectures.
 
 ## Prerequisites
 
-This course assumes that you are familiar with blockchain and its technical underpinnings. We require that all students have taken Blockchain Fundamentals before taking this course.
-
 On a high level, this course will require some level of understanding of the fundamental Computer Science concepts. Completion of CS 61A (Structure and Interpretation of Computer Programs), CS 61B (Data Structures), or relevant programming experience is highly recommended. 
-The bulk of the course will be focused on teaching Solidity (similar to JavaScript), and using touches of JavaScript (React) and Python. The Cosmos section of the course will be primarily done in Go. We do not require any prior experience with any of these languages, but do plan to allocate some extra time to pick it up if you haven’t used a certain programming language before.
+
+The bulk of the course will be focused on teaching Solidity (similar to JavaScript), and using touches of JavaScript (React) and Python. We do not require any prior experience with any of these languages, but do plan to allocate some extra time to pick it up if you haven’t used a certain programming language before.
 
 As previous experience with programming is a prerequisite for this course, we do expect students to be familiar with developing software already. However, it is likely that many of the tools and concepts introduced in this course are unfamiliar to those new to the blockchain space. If you face any challenges with your dev setup, please do not hesitate to reach out to any of the DeCal staff for help! We are here because we want every student in this course to succeed and/or achieve their personal academic goals for this course. We will do our best on our end to create an environment where students feel comfortable asking for help. 
 

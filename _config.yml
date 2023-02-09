@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Developer's Decal
+title: Developers Decal
 tagline: Course website for B@B's Dev Decal
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Daniel Gushchyan

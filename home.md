@@ -11,8 +11,12 @@ seo:
 
 # Blockchain for Developers
 
-Welcome to Blockchain for Developers! 
+Welcome to Blockchain for Developers!
 
-Our first lecture will be this Thursday, Feburary 9th at 6:00pm. A zoom link will be posted.
+You can use the bar on the left to find the course [schedule](#schedule) and [syllabus](#syllabus).
+
+## [Zoom Link](https://www.berkeley.zoom.us/my/satapathy)
+
+Our first lecture will be this Thursday, February 9th at **4:00pm**.
 
 {{ site.announcements[-1] }}
