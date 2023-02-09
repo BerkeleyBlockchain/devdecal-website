@@ -30,7 +30,7 @@ The course will be split into two parts. The first half of the course will provi
 
 Each class will be divided into two parts as well. The first hour of each class will be dedicated to a lecture covering the topics planned for that week. We will then switch gears in the second hour of class to focus on more hands-on work with that week’s topics. 
 
-Check [schedule](#schedule) section to see course structure and lectures.
+Check [schedule](schedule) section to see course structure and lectures.
 
 ## Prerequisites
 
@@ -52,20 +52,20 @@ If you have any questions about the project, please contact us, we’d be happy 
 
 ## Resources
 
-Working in Web3 Handbook (https://www.smsunarto.com/web3)
+[Working in Web3 Handbook](https://www.smsunarto.com/web3)
 
-useWeb3 (https://www.useweb3.xyz)
+[useWeb3](https://www.useweb3.xyz)
 
-EthSpring Resources (https://ethspring.com)
+[EthSpring Resources](https://ethspring.com)
 
-Introduction to Smart Contracts (https://ethereum.org/en/developers/docs/smart-contracts/)
+[Introduction to Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
 
-Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood (https://github.com/ethereumbook/ethereumbook)
+[Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 
-Ethereum Whitepaper (https://ethereum.org/en/whitepaper)
+[Ethereum Whitepaper](https://ethereum.org/en/whitepaper)
 
-In-depth EVM Guide (https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
+[In-depth EVM Guide](https://hackernoon.com/getting-deep-into-evm-how-ethereum-works-backstage-ac7efa1f0015)
 
-Cosmos Academy (https://tutorials.cosmos.network/academy/0-welcome/)
+[Cosmos Academy](https://tutorials.cosmos.network/academy/0-welcome/)
 
-A Cosmos Thesis (https://research.paradigm.xyz/cosmos-thesis)
+[A Cosmos Thesis](https://research.paradigm.xyz/cosmos-thesis)

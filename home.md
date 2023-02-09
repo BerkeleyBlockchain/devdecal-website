@@ -13,7 +13,7 @@ seo:
 
 Welcome to Blockchain for Developers!
 
-You can use the bar on the left to find the course [schedule](#schedule) and [syllabus](#syllabus).
+You can use the bar on the left to find the course [schedule](schedule) and [syllabus](syllabus).
 
 ## [Zoom Link](https://www.berkeley.zoom.us/my/satapathy)
 
