@@ -7,6 +7,7 @@ Feb 16
 : **Section**{: .label .label-yellow } Solidity
   : [Slides](https://docs.google.com/presentation/d/1tGEsSa0Rk0_4JxBqd2Kuis-Ldgj4b9xb00S-zOYjxfc/edit?usp=sharing)
     : [Recording]()
+    : [Workshop Recording](https://youtu.be/dArIuvzjk2o)
 : **Vitamin**{: .label .label-green } Solidity Quiz
   : [Submit]()
     <!-- : [Solutions](#) -->
