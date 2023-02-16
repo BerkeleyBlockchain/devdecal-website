@@ -22,4 +22,4 @@ Our first lecture will be this Thursday, February 9th at **4:00pm**.
 
 {{ site.announcements[-1] }}
 
-{{ site.modules[0] }}
+{{ site.modules[1] }}
