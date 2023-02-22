@@ -6,7 +6,7 @@ title: Introduction to Blockchain Development - A High-Level Overview
 Feb 9
 : **Section**{: .label .label-yellow } What is Blockchain?
   : [Slides](https://docs.google.com/presentation/d/1YwWCaatLVcMg-qEgWuvKmEHuDPI24kE_l5DFTkHXHYw/edit?usp=sharing)
-    : [Recording](#)
+    : [Recording](https://youtu.be/tYbL0r3Mtck)
 : **VITAMIN**{: .label .label-green } Fundamentals Quiz
   : [Submit](https://forms.gle/7p6iJnve17FGoCNbA)
     <!-- : [Solutions](#) -->
