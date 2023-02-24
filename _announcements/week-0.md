@@ -1,7 +1,7 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2/5/2023
+date: 9/2/2023
 ---
 
 Hello world!
