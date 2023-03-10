@@ -19,4 +19,4 @@ You can use the bar on the left to find the course [schedule](schedule) and [syl
 
 {{ site.announcements[-1] }}
 
-{{ site.modules[2] }}
+{{ site.modules[3] }}
