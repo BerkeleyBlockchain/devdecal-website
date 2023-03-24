@@ -1,9 +1,9 @@
 ---
 week: 7
-title: Recap & Intro to Zero-Knowledge
+title: dApp Architecture 2 - Composability
 ---
 
-Mar 9
+Mar 30
 : **Section**{: .label .label-yellow }[](#)
   : [Slides](#)
     : [Recording](#)
@@ -11,6 +11,3 @@ Mar 9
   : [Submit](#)
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [](#)
-
-Su, Mar 12
-: **LAB DUE**{: .label .label-red }

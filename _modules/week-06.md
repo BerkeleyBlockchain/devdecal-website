@@ -1,16 +1,15 @@
 ---
 week: 6
-title: dApp Architecture - Writing Large & Composable Smart Contracts
+title: dApp Architecture - Writing Large and Composable Contracts
 ---
 
-Mar 9
-: **Section**{: .label .label-yellow }[](#)
-  : [Slides](#)
-    : [Recording](#)
-: **Vitamin**{: .label .label-green } [](#)
-  : [Submit](#)
-    : [Solutions](#)
-: **Lab**{: .label .label-blue } [](#)
+Mar 23
+: **Section**{: .label .label-yellow } Compiling Contracts, Upgradability, Oracles
+  : [Slides]()
+    : [Recording](https://www.youtube.com/watch?v=MTaO3ShhL0U)
+: **Vitamin**{: .label .label-green } Week 6 Quiz
+  : [Submit](https://forms.gle/UbUSuNQHEL9A7kGo8)
+: **Lab**{: .label .label-blue } Lab Next Week
 
-Su, Mar 12
+April 5 
 : **LAB DUE**{: .label .label-red }

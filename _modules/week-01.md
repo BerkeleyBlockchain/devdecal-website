@@ -14,4 +14,5 @@ Feb 9
   : [Github Repo](https://github.com/BerkeleyBlockchain/dev-decal-sp23/tree/master/hw1-Build%20a%20Blockchain%20in%20Python)
 
 Wed, Feb 15
-: **LAB DUE**{: .label .label-red } [Submission](https://forms.gle/JCxMEAG5wqaULsz6A)
+: **LAB DUE**{: .label .label-red } 
+  : [Submit](https://forms.gle/JCxMEAG5wqaULsz6A)

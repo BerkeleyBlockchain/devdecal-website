@@ -1,9 +1,9 @@
 ---
 week: 11
-title: ZK Development 3
+title: ZK Development 4
 ---
 
-Mar 9
+April 27
 : **Section**{: .label .label-yellow }[](#)
   : [Slides](#)
     : [Recording](#)
@@ -12,5 +12,5 @@ Mar 9
     : [Solutions](#)
 : **Lab**{: .label .label-blue } [](#)
 
-Su, Mar 12
+Wed, May 3
 : **LAB DUE**{: .label .label-red }

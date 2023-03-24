@@ -15,3 +15,4 @@ Feb 23
 
 Su, Feb 26
 : **LAB DUE**{: .label .label-red }
+  : [Submit](https://forms.gle/Bd2jy6jfNJfkYhDcA)
