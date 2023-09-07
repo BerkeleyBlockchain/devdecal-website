@@ -4,15 +4,15 @@ title: Introduction to Blockchain Development - A High-Level Overview
 ---
 
 Sep 6
-: **Section**{: .label .label-yellow } What is Blockchain?
-  : [Slides](https://docs.google.com/presentation/d/1YwWCaatLVcMg-qEgWuvKmEHuDPI24kE_l5DFTkHXHYw/edit?usp=sharing)
+: **Lecture**{: .label .label-yellow } What is Blockchain?
+  : [Slides](https://docs.google.com/presentation/d/1q19723HBNNaOVxKidDA4v-pg026MzUONfY7i-SMTcCw/edit#slide=id.g2426b7db8e4_0_4)
     : [Recording](https://youtu.be/tYbL0r3Mtck)
 : **VITAMIN**{: .label .label-green } Fundamentals Quiz
-  : [Submit](https://forms.gle/7p6iJnve17FGoCNbA)
+  : [Submit](https://docs.google.com/forms/d/1rFFB-acgFb60qhE3vJbLEyIaE-Vah8XepCLbtYddeb4/edit)
     <!-- : [Solutions](#) -->
-: **Lab**{: .label .label-blue } Build Your Own Blockchain
-  : [Github Repo](https://github.com/BerkeleyBlockchain/dev-decal-sp23/tree/master/hw1-Build%20a%20Blockchain%20in%20Python)
+: **HOMEWORK**{: .label .label-blue } Build Your Own Blockchain
+  : [Github Repo]()
 
 Sep 13
-: **LAB DUE**{: .label .label-red } 
-  : [Submit](https://forms.gle/JCxMEAG5wqaULsz6A)
+: **HOMEWORK DUE**{: .label .label-red } 
+  : [Submit](https://docs.google.com/forms/d/108fS8iHdgnOyplPt4ze1q3wNNNvHQ8YYY_C5kwpP5X4/edit)
