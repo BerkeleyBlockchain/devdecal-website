@@ -17,6 +17,6 @@ You can use the bar on the left to find the course [schedule](schedule) and [syl
 
 ## [Zoom Link](https://berkeley.zoom.us/my/satapathy) | [Discord](https://discord.gg/zhKAKBmDsW)
 
-{{ site.announcements[-1] }}
+{{ site.announcements[0] }}
 
-{{ site.modules[5] }}
+{{ site.modules[0] }}
