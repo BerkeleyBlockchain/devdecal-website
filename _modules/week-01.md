@@ -11,7 +11,7 @@ Sep 6
   : [Submit](https://docs.google.com/forms/d/1rFFB-acgFb60qhE3vJbLEyIaE-Vah8XepCLbtYddeb4/edit)
     <!-- : [Solutions](#) -->
 : **HOMEWORK**{: .label .label-blue } Build Your Own Blockchain
-  : [Github Repo]()
+  : [Github Repo](https://github.com/BerkeleyBlockchain/fa23-dev-decal)
 
 Sep 13
 : **HOMEWORK DUE**{: .label .label-red } 
