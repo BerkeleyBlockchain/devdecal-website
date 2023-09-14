@@ -15,8 +15,8 @@ Welcome to Blockchain for Developers!
 
 You can use the bar on the left to find the course [schedule](schedule) and [syllabus](syllabus).
 
-## [Zoom Link](https://berkeley.zoom.us/my/satapathy) | [Discord](https://discord.gg/zhKAKBmDsW)
+## [Discord](https://discord.gg/nQeA6mbQ)
 
-{{ site.announcements[0] }}
+{{ site.announcements[-1] }}
 
-{{ site.modules[0] }}
+{{ site.modules[-1] }}
