@@ -13,3 +13,4 @@ Sep 27
 
 Wed, Oct 4
 : **HOMEWORK DUE**{: .label .label-red }
+: [Submit](https://www.gradescope.com/courses/608052/assignments/3429575/configure_autograder)
