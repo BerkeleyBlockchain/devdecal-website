@@ -13,3 +13,4 @@ Oct 18
 
 Oct 25
 : **HOMEWORK DUE**{: .label .label-red }
+  : [Submit](https://www.gradescope.com/courses/608052/assignments/3536730/)
