@@ -15,8 +15,6 @@ Welcome to Blockchain for Developers!
 
 You can use the bar on the left to find the course [schedule](schedule) and [syllabus](syllabus).
 
-## [Discord](https://discord.gg/a9GrUfBM)
-
 {{ site.announcements[-1] }}
 
 {{ site.modules }}

@@ -5,7 +5,7 @@ title: Introduction to Blockchain Development - A High-Level Overview
 
 Jan 31
 : **LECTURE**{: .label .label-yellow } What is Blockchain?
-  : [Slides] (TBD)
+  : [Slides] (https://docs.google.com/presentation/d/16zVquRB21OLZVQFQ2-loWsoEABvbFMpwkoOXOKgjB6U/edit?usp=sharing)
 : **VITAMIN**{: .label .label-green } Fundamentals Quiz
   : [Submit](https://forms.gle/TJSrq6g2XiCqwcEk8)
 : **HOMEWORK**{: .label .label-blue } Build Your Own Blockchain
