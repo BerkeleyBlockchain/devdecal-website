@@ -11,6 +11,6 @@ Feb 14
 : **HOMEWORK**{: .label .label-blue } Buidling an NFT Marketplace
   : [Github Repo](https://github.com/BerkeleyBlockchain/fa23-dev-decal)
 
-Wed, Feb 21
+Feb 21
 : **HOMEWORK DUE**{: .label .label-red }
   : [Submit](https://forms.gle/JTn286giEkbAhYqB8)

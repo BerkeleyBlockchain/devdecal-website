@@ -12,7 +12,7 @@ Feb 7
 : **HOMEWORK**{: .label .label-blue } Deploy ERC721
   : [Github Repo](https://github.com/BerkeleyBlockchain/fa23-dev-decal)
 
-Wed, Feb 14
+Feb 14
 : **HOMEWORK DUE**{: .label .label-red }
   : [Submit](https://forms.gle/zTTzT6NiUABb4AdXA)
   
