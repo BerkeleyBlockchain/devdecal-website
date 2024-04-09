@@ -4,9 +4,9 @@ title: Uniswap and Aave
 ---
 
 Apr 10
-: **LECTURE**{: .label .label-yellow } Uniswap and Aave
+: **LECTURE**{: .label .label-yellow } Trading, DEXs, and Uniswap
   : [Slides](https://docs.google.com/presentation/d/1bPx-zmT9HA5phkN53Dc_ykBsuQeBaFQ-02KtyYybAeQ/edit?usp=sharing)
-: **HOMEWORK**{: .label .label-blue } Aave Flash Loan
+: **HOMEWORK**{: .label .label-blue } Uniswap
   : [Github Repo](https://github.com/BerkeleyBlockchain/fa23-dev-decal/tree/main)
 
 Apr 17
